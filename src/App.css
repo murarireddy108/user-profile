@@ -1,0 +1,19 @@
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+    background-color: whitesmoke;
+}
+
+.home-page{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 30px 40px;
+}
+
+.card{
+  border: none;
+}
+.table{
+  text-align: center;
+}
